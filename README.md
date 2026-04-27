@@ -1,5 +1,8 @@
 # Tugas DW P4 - Dashboard Penjualan (PHP + PostgreSQL + Docker)
 
+Url screenshot dan insight:
+https://drive.google.com/drive/folders/18DprR7QImjKnZTL5_MjETfn3huwxuuDY?usp=sharing
+
 Project ini menampilkan visualisasi data warehouse penjualan menggunakan:
 - PHP (Apache)
 - PostgreSQL
